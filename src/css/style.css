@@ -1,0 +1,22 @@
+/* Notice: Sir wla na kayu ko ga-add ug 
+custom css, giutilize ra nakong bootstrap hehe. */
+
+/* * {
+  color: white;
+} */
+body {
+  background-color: #bdb76b;
+}
+/* .container-fluid {
+  background-image: url("https://giphy.com/gifs/animated-abstract-background-l4KihuqeuJEi9qLSM");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.gif-background {
+  background-image: url("https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif");
+  background-size: cover;
+} */
+td {
+  font-size: 1.5rem;
+}
